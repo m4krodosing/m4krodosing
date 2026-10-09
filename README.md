@@ -6,11 +6,10 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@m4krodosing-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m4krodosing)
 [![Email](https://img.shields.io/badge/Email-m4krodosing@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m4krodosing@gmail.com)
-[![OpenSea](https://img.shields.io/badge/OpenSea-BLUMEN-2081E2?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/collection/nftblumen)
+
 
 </div>
 
-markdown
 ## ABOUT ME
 
 <table>
