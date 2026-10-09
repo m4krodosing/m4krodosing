@@ -4,9 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=640&lines=Web+Developer;Telegram+Bots;Automation;NFT;Ad+%26+Social+Media+Design)](https://t.me/m4krodosing)
 
-[![Telegram](https://img.shields.io/badge/Telegram-@m4krodosing-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m4krodosing)
-[![Email](https://img.shields.io/badge/Email-m4krodosing@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m4krodosing@gmail.com)
-
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m4krodosing)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m4krodosing@gmail.com)
 
 </div>
 
@@ -23,8 +22,6 @@
     </td>
   </tr>
 </table>
-
-<br clear="right">
 
 ## MAIN SERVICES
 
@@ -77,6 +74,8 @@
 ## LANGUAGES
 
 🇺🇦 Ukrainian · 🇩🇪 German · 🇬🇧 English
+
+## JOIN ME ON TELEGRAM
 
 <div align="center">
 
