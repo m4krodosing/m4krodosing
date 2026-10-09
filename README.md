@@ -1,13 +1,15 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Vibe%20Coder%20%C2%B7%20AI%20Creator&fontSize=38&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=m4kro.dev&fontSize=48&fontColor=ffffff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=640&lines=Web+Developer;Telegram+Bots;Automation;NFT;Ad+%26+Social+Media+Design)](https://t.me/m4krodosing)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Web+Developer;Telegram+Bots;Automation;Vibe+Coding;AI+Creator;NFT;Ad+%26+Social+Media+Design)](https://t.me/m4krodosing)
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m4krodosing)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m4krodosing@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="">
 
 ## ABOUT ME
 
@@ -16,6 +18,7 @@
     <td valign="middle">
       <h3>I build websites for local businesses, Telegram bots, and small automation tools. I take a project from idea to launch: structure, code, domain, hosting, and deployment.</h3>
       <h3>I work with HTML, CSS, JavaScript, and Python. I focus on mobile-friendly design, speed, basic SEO, and legal requirements (GDPR, cookie consent).</h3>
+      <h3>I'm a vibe coder and AI creator: I use AI tools to move faster from idea to a working product.</h3>
     </td>
     <td valign="middle" width="220">
       <img src="3.gif" width="220" alt="m4kro">
@@ -23,27 +26,123 @@
   </tr>
 </table>
 
+<div align="center">
+
+[![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=26A5E4&center=true&vCenter=true&width=640&height=40&lines=const+m4kro+%3D+%7B+web%2C+bots%2C+automation+%7D%3B;m4kro.build(idea)+%E2%86%92+launch;vibe_coding+%2B+AI+%3D+speed)](https://t.me/m4krodosing)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="">
+
 ## MAIN SERVICES
 
-| Direction | What I do |
-|---|---|
-| 🌐 **Websites for local businesses** | Responsive landing pages, one-page and multi-page websites for tradespeople, small companies, and shops · Contact forms and Google Maps · Basic SEO: meta tags, sitemap.xml, robots.txt · Domain setup and deployment to a hosting provider · Adding legal pages (Impressum, Datenschutz) using text from the client, a lawyer, or a generator · Cookie consent for Google Maps and analytics · Setup of Google Business Profile, Google Analytics 4, and Google Search Console |
-| 🤖 **Telegram bots** | Menus, inline buttons, and step-by-step conversation flows · SQLite, reminders, and scheduled tasks · Trackers, educational bots, and admin bots · Runs 24/7 on a server |
-| 🎨 **Design & AI content** | Ad banners and creatives · Posts for Telegram and Instagram |
-| 🪙 **NFT** | Creating NFT artwork (visuals, metadata) and listing collections on OpenSea |
-| 📱 **Web apps without a backend** | Calculators, trackers, and timesheets. Data is stored on the device; Telegram Mini App format is also available |
-| ⚙️ **Python automation** | Reminders, data processing, and simple record-keeping systems |
+Click a direction to see the details.
+
+<details>
+<summary><b>🌐 Websites for local businesses</b> — landing pages and multi-page sites for tradespeople, small companies, and shops</summary>
+<br>
+
+- Responsive landing pages, one-page and multi-page websites
+- Contact forms and Google Maps
+- Basic SEO: meta tags, sitemap.xml, robots.txt
+- Domain setup and deployment to a hosting provider
+- Adding legal pages (Impressum, Datenschutz) using text from the client, a lawyer, or a generator
+- Cookie consent for Google Maps and analytics
+- Setup of Google Business Profile, Google Analytics 4, and Google Search Console
+
+</details>
+
+<details>
+<summary><b>🤖 Telegram bots</b> — menus, buttons, databases, 24/7 hosting</summary>
+<br>
+
+- Menus, inline buttons, and step-by-step conversation flows
+- SQLite, reminders, and scheduled tasks
+- Trackers, educational bots, and admin bots
+- Runs 24/7 on a server
+
+</details>
+
+<details>
+<summary><b>🎨 Design & AI content</b> — banners, creatives, social posts</summary>
+<br>
+
+- Ad banners and creatives
+- Posts for Telegram and Instagram
+
+</details>
+
+<details>
+<summary><b>🪙 NFT</b> — artwork, metadata, OpenSea listing</summary>
+<br>
+
+- Creating NFT artwork (visuals, metadata) and listing collections on OpenSea
+
+</details>
+
+<details>
+<summary><b>📱 Web apps without a backend</b> — calculators, trackers, timesheets</summary>
+<br>
+
+- Calculators, trackers, and timesheets
+- Data is stored on the device
+- Telegram Mini App format is also available
+
+</details>
+
+<details>
+<summary><b>⚙️ Python automation</b> — reminders, data processing, record-keeping</summary>
+<br>
+
+- Reminders, data processing, and simple record-keeping systems
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="">
 
 ## PROJECTS
 
-| Project | Description | Link |
-|---|---|---|
-| 🎨 **Website for a painting and renovation business** | A real client project: service and project pages, custom domain, SEO, legal notice (Impressum), privacy policy (Datenschutz), cookie consent, Google Maps, and Analytics | [schneider-renovierungen.de](https://schneider-renovierungen.de) |
-| 💊 **Pill Reminder Bot** <br> Telegram · Python · SQLite | A medication reminder bot with time and day settings, one-tap confirmation, repeat reminders, and alerts to a trusted contact if a dose is missed. Includes a 30-day history, time zone support, and 24/7 operation | [t.me/kwikemartbot](https://t.me/kwikemartbot) |
-| 🪙 **BLUMEN** <br> NFT collection · Arbitrum | Creating the collection's artwork and selling it on OpenSea | [opensea.io/collection/nftblumen](https://opensea.io/collection/nftblumen) |
-| 🇩🇪 **HalloDeutsch** <br> Web app · Telegram bot | An app for learning German from beginner level to B1, with topics, progress tracking, an XP system, dark theme, and bot integration | [t.me/Ich_Bin_Deutsch_Lehrer_Bot](https://t.me/Ich_Bin_Deutsch_Lehrer_Bot) |
-| 🕐 **Stundenzettel** <br> Web app | A working time tracker (timesheet) with start and end times, breaks, notes, automatic calculation, and print/PDF export. Data is stored on the device | [m4krodosing.github.io/stundenzettel](https://m4krodosing.github.io/stundenzettel/) |
-| 🚁 **FPV DROP** <br> Browser game | A Canvas-based browser game for smartphone and PC | [t.me/fpv_drone_game_bot](https://t.me/fpv_drone_game_bot) |
+### 🎨 Website for a painting and renovation business
+A real client project: service and project pages, custom domain, SEO, legal notice (Impressum), privacy policy (Datenschutz), cookie consent, Google Maps, and Analytics.
+
+[![Open](https://img.shields.io/badge/schneider--renovierungen.de-open-2E7D32?style=for-the-badge)](https://schneider-renovierungen.de)
+
+### 💊 Pill Reminder Bot
+`Telegram` · `Python` · `SQLite`
+
+A medication reminder bot with time and day settings, one-tap confirmation, repeat reminders, and alerts to a trusted contact if a dose is missed. Includes a 30-day history, time zone support, and 24/7 operation.
+
+[![Open](https://img.shields.io/badge/@kwikemartbot-open-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kwikemartbot)
+
+### 🪙 BLUMEN
+`NFT collection` · `Arbitrum`
+
+Creating the collection's artwork and selling it on OpenSea.
+
+[![Open](https://img.shields.io/badge/OpenSea-nftblumen-2081E2?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/collection/nftblumen)
+
+### 🇩🇪 HalloDeutsch
+`Web app` · `Telegram bot`
+
+An app for learning German from beginner level to B1, with topics, progress tracking, an XP system, dark theme, and bot integration.
+
+[![Open](https://img.shields.io/badge/@Ich__Bin__Deutsch__Lehrer__Bot-open-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ich_Bin_Deutsch_Lehrer_Bot)
+
+### 🕐 Stundenzettel
+`Web app`
+
+A working time tracker (timesheet) with start and end times, breaks, notes, automatic calculation, and print/PDF export. Data is stored on the device.
+
+[![Open](https://img.shields.io/badge/Stundenzettel-open-F7DF1E?style=for-the-badge&logoColor=black)](https://m4krodosing.github.io/stundenzettel/)
+
+### 🚁 FPV DROP
+`Browser game`
+
+A Canvas-based browser game for smartphone and PC.
+
+[![Open](https://img.shields.io/badge/@fpv__drone__game__bot-play-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fpv_drone_game_bot)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="">
 
 ## HOW I WORK
 
@@ -53,19 +152,17 @@
 4. Launch (domain, hosting, deployment)
 5. Handover and support
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="">
+
 ## TECHNOLOGIES
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,sqlite,git,github,linux&perline=8" alt="tech">
+</p>
+
 ![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Canvas](https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![localStorage](https://img.shields.io/badge/localStorage-555555?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 ![Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=google&logoColor=white)
@@ -75,6 +172,20 @@
 
 🇺🇦 Ukrainian · 🇩🇪 German · 🇬🇧 English
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="">
+
+## ACTIVITY
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4krodosing/m4krodosing/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4krodosing/m4krodosing/output/github-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/m4krodosing/m4krodosing/output/github-snake-dark.svg">
+</picture>
+
+</div>
+
 ## JOIN ME ON TELEGRAM
 
 <div align="center">
@@ -83,9 +194,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/m4krodevchat"><img src="2.gif" width="200" alt="m4kro chat"></a>
 
-<br>
+<br><br>
 
-**Open to new projects.**
+<img src="open-to-work.svg" width="320" alt="Open to new projects">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
