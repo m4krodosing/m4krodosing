@@ -10,13 +10,20 @@
 
 </div>
 
+markdown
 ## ABOUT ME
 
-<img src="3.gif" width="300" align="right" alt="m4kro">
-
-I build websites for local businesses, Telegram bots, and small automation tools. I take a project from idea to launch: structure, code, domain, hosting, and deployment.
-
-I work with HTML, CSS, JavaScript, and Python. I focus on mobile-friendly design, speed, basic SEO, and legal requirements (GDPR, cookie consent).
+<table>
+  <tr>
+    <td valign="middle">
+      <h3>I build websites for local businesses, Telegram bots, and small automation tools. I take a project from idea to launch: structure, code, domain, hosting, and deployment.</h3>
+      <h3>I work with HTML, CSS, JavaScript, and Python. I focus on mobile-friendly design, speed, basic SEO, and legal requirements (GDPR, cookie consent).</h3>
+    </td>
+    <td valign="middle" width="220">
+      <img src="3.gif" width="220" alt="m4kro">
+    </td>
+  </tr>
+</table>
 
 <br clear="right">
 
