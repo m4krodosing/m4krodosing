@@ -12,7 +12,7 @@
 
 ## ABOUT ME
 
-<img src="assets/1.gif" width="150" align="right" alt="m4kro">
+<img src="3.gif" width="150" align="right" alt="m4kro">
 
 I build websites for local businesses, Telegram bots, and small automation tools. I take a project from idea to launch: structure, code, domain, hosting, and deployment.
 
@@ -77,12 +77,12 @@ I work with HTML, CSS, JavaScript, and Python. I focus on mobile-friendly design
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://t.me/m4krodev"><img src="assets/1.gif" width="140" alt="m4kro"></a><br>
+      <a href="https://t.me/m4krodev"><img src="1.gif" width="140" alt="m4kro"></a><br>
       <a href="https://t.me/m4krodev"><b>📢 Telegram channel</b></a><br>
       <sub>t.me/m4krodev</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://t.me/m4krodevchat"><img src="assets/2.gif" width="140" alt="m4kro chat"></a><br>
+      <a href="https://t.me/m4krodevchat"><img src="2.gif" width="140" alt="m4kro chat"></a><br>
       <a href="https://t.me/m4krodevchat"><b>💬 Telegram chat</b></a><br>
       <sub>t.me/m4krodevchat</sub>
     </td>
